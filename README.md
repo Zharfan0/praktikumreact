@@ -1,3 +1,5 @@
+![image](https://github.com/Zharfan0/praktikumreact/assets/111213994/2cdad0ee-88f4-49dd-8803-5a02d76d342f)
+![image](https://github.com/Zharfan0/praktikumreact/assets/111213994/2cdad0ee-88f4-49dd-8803-5a02d76d342f)
 ![image](https://github.com/Zharfan0/praktikumreact/assets/111213994/f968d620-68eb-4e05-a933-aff309a4d48d)
 ![image](https://github.com/Zharfan0/praktikumreact/assets/111213994/3e151d53-c7be-4941-ac68-ffb9c5da799f)
 ![image](https://github.com/Zharfan0/praktikumreact/assets/111213994/74447893-010c-4d22-b585-3089a8b0eed4)
