@@ -1,3 +1,11 @@
+![image](https://github.com/Zharfan0/praktikumreact/assets/111213994/f968d620-68eb-4e05-a933-aff309a4d48d)
+![image](https://github.com/Zharfan0/praktikumreact/assets/111213994/3e151d53-c7be-4941-ac68-ffb9c5da799f)
+![image](https://github.com/Zharfan0/praktikumreact/assets/111213994/74447893-010c-4d22-b585-3089a8b0eed4)
+![image](https://github.com/Zharfan0/praktikumreact/assets/111213994/92157d49-6e37-4ebe-9dfd-144460034c9a)
+![image](https://github.com/Zharfan0/praktikumreact/assets/111213994/1ae811c7-2219-45a0-b50e-7fe578cd8610)
+![image](https://github.com/Zharfan0/praktikumreact/assets/111213994/9dff67f1-7eb1-47af-9ad8-dc04581e4388)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
